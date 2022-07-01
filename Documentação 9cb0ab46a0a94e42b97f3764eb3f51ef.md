@@ -2,30 +2,30 @@
 
 # Integrantes
 
-<aside>
-👥 **Camila Reis**
 
-</aside>
+👥 Camila Reis
 
-<aside>
-👥  **Gabriel Christ**
 
-</aside>
 
-<aside>
-👥 **Gustavo Pereira**
 
-</aside>
+👥  Gabriel Christ
 
-<aside>
-👥 **Lucas Passos**
 
-</aside>
 
-<aside>
-👥  **Ramom Ferraz**
 
-</aside>
+👥 Gustavo Pereira
+
+
+
+
+👥 Lucas Passos
+
+
+
+
+👥  Ramom Ferraz
+
+
 
 # Escopo
 
